@@ -1,0 +1,12 @@
+{
+    "remote.SSH.remotePlatform": {
+        "10.0.2.95": "linux"
+    },
+    "git.ignoreLegacyWarning": true,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.unfoldOnClickAfterEndOfLine": true,
+    "explorer.confirmDelete": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "terminal.integrated.enableMultiLinePasteWarning": false
+}
