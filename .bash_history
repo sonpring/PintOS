@@ -381,3 +381,86 @@ git remote -v
 git remote origin add https://github.com/sonpring/PintOS.git
 git remote add origin https://github.com/sonpring/PintOS.git
 git init
+sudo apt-get install git
+sudo apt-get update
+sudo apt-get install git
+git init
+sudo git init
+git add .
+git commit -m '230102'
+git commit -m "230102"
+git add .
+git config --global --add safe.direcrtory /home
+git add .
+ls
+cd ubuntu
+ls
+git add .
+git status
+git commit -m "230102"
+git config --global user.email "jaewoo1940@unist.ac.kr"
+git config --global user.name "sonpring"
+git commit -m "230102"
+git remote add origin https://github.com/sonpring/PintOS.git
+git push
+git push origin master
+cd src
+ls
+cd pintos
+cd src
+cd threads
+make
+make check
+make
+make check
+make
+make check
+make
+make check
+pintos -v -k -T 480 --qemu  -- -q -mlfqs run mlfqs-nice-10 < /dev/null 2> tests/threads/mlfqs-nice-10.errors > tests/threads/mlfqs-nice-10.output
+pintos --qemu -- -q -mlfqs run mlfqs-nice-10
+make check
+make
+make check
+make
+make clean
+make
+make check
+cd src
+cd pintos
+ls
+cd ubuntu
+cd ls
+ls
+cd pintos/src/thread
+cd pintos/src/threads
+make
+﻿pintos -- -q run alarm-multiple
+-- -q run alarm-multiple
+-q run alarm-multiple
+﻿pintos -- -q run alarm-multiple
+make
+make check
+make
+﻿pintos -- -q run alarm-multiple
+make clean
+make
+﻿pintos -- -q run alarm-multiple
+make
+cd build
+﻿pintos -- -q run alarm-multiple
+cd ..
+make
+﻿pintos -- -q run alarm-multiple
+make clean
+make
+﻿pintos -- -q run alarm-multiple
+pintos run alarm-multiple
+pintos -- -q run alarm-multiple
+make check
+cd pintos
+ls
+cd ubuntu
+cd pintos
+cd src/threads
+make check

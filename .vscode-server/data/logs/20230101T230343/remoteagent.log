@@ -2,3 +2,5 @@
 2023-01-01 23:03:43.579 [info] [127.0.0.1][c77a2f3e][ManagementConnection] New connection established.
 2023-01-01 23:03:44.220 [info] [127.0.0.1][e615fc8e][ExtensionHostConnection] New connection established.
 2023-01-01 23:03:45.376 [info] [127.0.0.1][e615fc8e][ExtensionHostConnection] <141> Launched Extension Host Process.
+2023-01-02 03:51:01.116 [info] [127.0.0.1][c77a2f3e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-02 03:51:01.209 [info] [127.0.0.1][e615fc8e][ExtensionHostConnection] <141> Extension Host Process exited with code: 0, signal: null.
